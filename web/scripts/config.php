@@ -75,7 +75,7 @@ function escribe_cabecera ($es_index = 0) {
 
 		echo '<head>'."\n";
 		
-		// --- Ventana emergente newsletter 2023 - 11- 08
+		// --- Ventana emergente newsletter 2024 - 12 - 08
 			echo '<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/be01c162bec5fd174bf043047/43d12a5d7e1a387c74414e20b.js");</script>'."\n";
 		// --- Configuración
 			echo '<meta charset="utf-8" />'."\n";
@@ -131,7 +131,7 @@ function escribe_cabecera ($es_index = 0) {
 			
 
 			// --- Google Analytics
-			echo '<link rel="shortcut icon" href="newfavicon.ico?v=2" />'."\n";
+			echo '<link rel="shortcut icon" href="newfavicon.ico" />'."\n";
 			
 			echo '<!-- Global site tag (gtag.js) - Google Analytics -->'."\n";
 			echo '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113152812-1"></script>'."\n";
@@ -197,9 +197,9 @@ function escribe_cabecera ($es_index = 0) {
 							echo '<div class="c-brand c-pull-left">'."\n";
 	 
 							echo '<a href="index" class="c-logo">'."\n";
-								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo">'."\n";
-								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo-inverse">'."\n";
-								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-mobile-logo"> </a>'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" class="c-desktop-logo">'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" class="c-desktop-logo-inverse">'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" alt="Volunfair" class="c-mobile-logo"> </a>'."\n";
 							echo '<button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">'."\n";
 								echo '<span class="c-line"></span>'."\n";
 								echo '<span class="c-line"></span>'."\n";

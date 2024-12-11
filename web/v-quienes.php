@@ -106,7 +106,7 @@ escribe_cabecera();
             </br>
             <br>
             </br>
-            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\Fotos2022\equipo2022.jpeg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\Fotos2024\fotofondo.jpg">
                 <div class="c-content-box c-size-md ">
                     <div class="container">
                         <div class="row">
@@ -264,47 +264,10 @@ escribe_cabecera();
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel8.jpeg); min-height: 380px;">
                                         </div>
                                     </div>
-                                    <br>
-                                        </br>
-                                        <!-- 
-                                    <div class="c-contact">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-uppercase c-font-bold"> </h3>
-                                            <p class="c-font-lowercase">PORRA DEL MUNDIAL QATAR 2022 <br>
-                                            </br> Manolo acompañó a España en el mundial de Qatar 2022 hasta el último momento, pero tristemente no pudo celebrar la segunda
-                                                estrellita en el escudo español... Aún así, el departamento de Recursos Humanos volvió a liarla dentro del equipazo de VOLUNFAIR 2023
-                                                y organizó la mayor porra jamás vista en industriales. </p>
-                                        </div>
-                                        <p class="c-font-lowercase">
-                                        </p>
-                                    </div>
-                                <div class="c-content-media-2-slider wow animated fadeInLeft" data-slider="owl">
-                                
-                                    <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra2.jpg); min-height: 380px;">
-                                        </div>
-
-                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra3.png); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra5.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra1.png); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra4.png); min-height: 380px;">
-                                        </div>
-                               
-                                    </div>
-                                </div>
-                    </div> -->
+                                    <br> </br>
                 </div>
             </div>
-            
+
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="c-content-feedback-1 c-option-1">
@@ -314,8 +277,8 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
                                         <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
-                                        </br> Los días 11 y 12 de diciembre nos lanzamos de cabeza a recoger alimentos con el equipo de Volunfair: comida, productos de higiene, 
-                                        cosas para los peques. En esos dos días, nos dimos cuenta de que Volunfair no es solo una feria de voluntariados, es el hecho de ponerse <b>manos a la obra</b>
+                                        </br> Los días 3, 4 y 5 de diciembre nos lanzamos de cabeza a recoger alimentos con el equipo de Volunfair: comida, productos de higiene, 
+                                        cosas para los peques. En esos dos días, nos dimos cuenta de que Volunfair no es solo una feria de voluntariados, es el hecho de no desperdiciar el momento
                                          y de darlo todo día tras día. La gente se volcó con nosotros y esto es más que una feria, es el poder de hacer algo grande juntos.</p>
                                     </div>
                                     <p class="c-font-lowercase">
@@ -343,52 +306,17 @@ escribe_cabecera();
                                         </div>
                                     </div>
                                 </div>
-
-                                <!--
-                                <br>
-                                        </br> 
-                                <div class="c-contact">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-uppercase c-font-bold"> </h3>
-                                            <p class="c-font-lowercase">RIFA NAVIDAD <br>
-                                            </br> Como la feria no se financia sola, los jefazos Paula y Jorge tuvieron esta idea: realizar un sorteo que revolucionase la edición.
-                                            Y así lo hicimos. Muchísimos particiantes, el equipo unió todavía más y VOLUNFAIR no dejaba de liarla por donde fuese!!</p>
-                                        </div>
-                                        <p class="c-font-lowercase">
-                                        </p>
-                                </div>
-                                <div class="c-content-media-2-slider wow animated fadeInRight" >
-                                
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/rifa1.jpg); min-height: 380px;">
-                                        </div>
-                                </div>
-                            </div> 
-                            <div class="col-md-6">
-                               <div class="c-contact">
-                                    <div class="c-content-title-1">
-                                        <h3 class="c-font-uppercase c-font-bold"></h3>
-                                        <p class="c-font-lowercase">HIMNO OFICIAL<br>
-                                        </br> VOLUNFAIR no solo está formado por unos increíbles voluntarios sino que además contamos con un grupazo musical que tuvo la
-                                            gran iniciativa de componer y grabar una canción sobre los valores de VOLUNFAIR, con la colaboración de Iñigo Quintero.
-                                        ¿Quieres escucharla? ¡Es un exitazo! </p>
-                                    </div>
-                                    <p class="c-font-lowercase">
-                                    </p>
-                                </div>
-                                <div class="c-content-media-2-slider wow animated fadeInLeft" >
-                                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@volunfair/video/7175896073771224326" data-video-id="7175896073771224326" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@volunfair" href="https://www.tiktok.com/@volunfair?refer=embed">@volunfair</a> Ya os dijimos que se venía una graaan sorpresa🙌🏼🙌🏼 Estábamos deseando enseñaros este proyecto que con tanta ilusión hemos preparado!! Es algo nuevo e innovador lleno de magia!🪄🪄🪄 Con esto os explicamos el verdadero significado de ✨VOLUNFAIR✨ Ante todo queremos dar las gracias al pedazo de equipo que ha hecho este sueño realidad 🤟🏼🎶SOIS UNOS CRACKS🤟🏼🎶 Como podéis ver Manolo está tan entusiasmado como nosotros🤩 Esperamos que os guste tanto que no podáis parar de escucharla hasta febrero!!! 🗓️🗓️🗓️ <a title="volunfair" target="_blank" href="https://www.tiktok.com/tag/volunfair?refer=embed">#volunfair</a>  <a title="voluntariado" target="_blank" href="https://www.tiktok.com/tag/voluntariado?refer=embed">#voluntariado</a>  <a title="nuevacancion" target="_blank" href="https://www.tiktok.com/tag/nuevacancion?refer=embed">#nuevacancion</a> <a target="_blank" title="♬ sonido original - volunfair" href="https://www.tiktok.com/music/sonido-original-7175896120824253190?refer=embed">♬ sonido original - volunfair</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>                                </div>  
-
-                                
-                            </div> -->
                         </div>
                     </div>
                 </div>
 
             </div>
+            
+            <!-- FIN: EQUIPO ED ANTERIORES -->
+
+
             <?php   
-            
-           
-            
+        
 
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
             // --- Guardar la foto en assets/base/img/volunfair/staff2/
@@ -396,128 +324,141 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
-                        ['nombre' => 'Diego Álvarez',				        'foto' => 'diegoalvarezjefazo'],
-                        ['nombre' => 'Blanca Verdes',				        'foto' => 'jefazablancaverdes'],
+                        ['nombre' => 'Olivia Alarcón',				        'foto' => 'diegoalvarezjefazo'],
+                        ['nombre' => 'Santiago Antúnez',				    'foto' => 'jefazablancaverdes'],
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Olivia Alarcón',			      	    'foto' => 'comoliviaalarcon'],
-                        ['nombre' => 'Javier Baza',     			        'foto' => 'comjavierbaza'],
-                        ['nombre' => 'Casilda Gómez',					    'foto' => 'comcasildagomez'],
-                        ['nombre' => 'Alejandra Gómez',		                'foto' => 'comalejandragomez'],
-                        ['nombre' => 'Enrique Giménez-Arnau',             	'foto' => 'comquiquegimenez'],
-                        //['nombre' => 'María Gómez',				        'foto' => 'commariagomez'],
-                        ['nombre' => 'Yanela Gora',				    	    'foto' => 'comyanelagora'],
-                        ['nombre' => 'Marta Aguado',					    'foto' => 'commartaaguado'],
-                        ['nombre' => 'Nico Montero',	        			'foto' => 'comnicomontero'],
-                        //['nombre' => 'Patricia Rivas',     			    'foto' => 'compatriciarivas'],
-                        ['nombre' => 'Valentín Picón',     			        'foto' => 'comvalentinpicon'],
-                        //['nombre' => 'Lucía Millán',     			        'foto' => 'comluciamillan'],
-                        ['nombre' => 'Irene Gordo',     			        'foto' => 'comirenegordo'],
-                        ['nombre' => 'Martina Huete',     			        'foto' => 'commartinahuete'],
+                        ['nombre' => 'Íñigo Arreytunandia',		            'foto' => 'rrhhinigoarreytunandia'],
+                        ['nombre' => 'Rodrigo Avilés',			      	    'foto' => 'comoliviaalarcon'],
+                        ['nombre' => 'Juan Ramiro',     			        'foto' => 'comjavierbaza'],
+                        ['nombre' => 'Isabel Nuño-de la Rosa',			    'foto' => 'comcasildagomez'],
+                        ['nombre' => 'Ana Soria',		                    'foto' => 'comalejandragomez'],
+                        ['nombre' => 'Nicolás Montero',             	    'foto' => 'comquiquegimenez'],
+                        ['nombre' => 'Carlos Iranzo',				        'foto' => 'commariagomez'],
+                        ['nombre' => 'Eduardo García-Atance',				'foto' => 'comyanelagora'],
+                        ['nombre' => 'Pablo Antúnez',					    'foto' => 'commartaaguado'],
+                        ['nombre' => 'Pilar Gonzalez-Aller',	            'foto' => 'comnicomontero'],
+                        ['nombre' => 'Marta García-Aranda',     			'foto' => 'compatriciarivas'],
+                        ['nombre' => 'Teresa Montejo',     			        'foto' => 'comvalentinpicon'],
+                        ['nombre' => 'Amérca Díaz-Gurdamino',     			'foto' => 'comluciamillan'],
+                        ['nombre' => 'Inés Martinez-Fresno',     			'foto' => 'comirenegordo'],
+                        ['nombre' => 'Marta Ramis',     			        'foto' => 'commartinahuete'],
                     ],
                     
-                "Financiación" => [
-                        ['nombre' => 'Santi Antúnez',				        'foto' => 'finsantiantunez'],
-                        ['nombre' => 'Cande Vendrell',		    	        'foto' => 'fincandevendrell'],
-                        ['nombre' => 'Gabriel Callejo',			            'foto' => 'fingabricallejo'],
-                        ['nombre' => 'Diego Alcon',                         'foto' => 'findiegoalcon'],
-                        ['nombre' => 'Telmo Ocina',		                    'foto' => 'fintelmocina'],
-                        ['nombre' => 'Nicolás Sánchez',	                    'foto' => 'finnicosanchez'],
-                        ['nombre' => 'Manu Márquez',	                    'foto' => 'finmanuelmarquez'],
-                        ['nombre' => 'María Sordo',	                        'foto' => 'finmariasordo'],
+                "Colaboradores" => [
+                        ['nombre' => 'Manu Márquez',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Gael Cubo',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Alejandra Valero',		    	        'foto' => 'fincandevendrell'],
+                        ['nombre' => 'María Férnandez',			            'foto' => 'fingabricallejo'],
+                        ['nombre' => 'Carmen González-Aller',                         'foto' => 'findiegoalcon'],
+                        ['nombre' => 'Blanca Muñoz',		                    'foto' => 'fintelmocina'],
+                        ['nombre' => 'Valentín Picón',	                    'foto' => 'finnicosanchez'],
+                        ['nombre' => 'Jaime López',	                    'foto' => 'finmanuelmarquez'],
+                        ['nombre' => 'Javier Latorre',	                        'foto' => 'finmariasordo'],
+                        ['nombre' => 'Telmo Ocina',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'María Urraca',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Daniel Rosado',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Javier Vera',				        'foto' => 'finsantiantunez'],
                     ],
 
-                "Gestión" => [
-                        ['nombre' => 'Jaime Moral',	    			    'foto' => 'gesjaimemoral'],
-                        ['nombre' => 'Juan Ruiz',	    	            'foto' => 'gesjuanruiz'],
-                        ['nombre' => 'Carlos Carril',				    'foto' => 'gescarloscarril'],
-                        ['nombre' => 'Ana Corrales',			        'foto' => 'gesanacorrales'],
-                        //['nombre' => 'Jorge Gomez-Pamo',              'foto' => 'gesjorgegomezpamo'],
-                        ['nombre' => 'Tito Ramírez',		            'foto' => 'gestitoramirez'],
-                        ['nombre' => 'Inés Prados',		                'foto' => 'gesinesprados'],
-                        ['nombre' => 'Isa de Bloteau',		            'foto' => 'gesisabeldebloteau'],
-                        ['nombre' => 'Blanca Bravo',     			    'foto' => 'gesblancabravo'],
-                        ['nombre' => 'Rosa Mahugo',     			    'foto' => 'gesrosamahugo'],
-                        ['nombre' => 'Sandra Giner',     			    'foto' => 'gessandraginer'],
+                "Logística" => [
+                        ['nombre' => 'Isa de Bloteau',	    			        'foto' => 'gesjaimemoral'],
+                        ['nombre' => 'Guillaume Femminella',	    			        'foto' => 'gesjaimemoral'],
+                        ['nombre' => 'Enrique Giménez-Arnau',	    	                'foto' => 'gesjuanruiz'],
+                        ['nombre' => 'Tito Ramírez',				        'foto' => 'gescarloscarril'],
+                        ['nombre' => 'Alberto Puig',			            'foto' => 'gesanacorrales'],
+                        ['nombre' => 'Carlos Lanchares ',                  'foto' => 'gesjorgegomezpamo'],
+                        ['nombre' => 'Ester Pérez',		                'foto' => 'gestitoramirez'],
+                        ['nombre' => 'Ruth Martínez',		                    'foto' => 'gesinesprados'],
+                        ['nombre' => 'Armando Palau',		                'foto' => 'gesisabeldebloteau'],
+                        ['nombre' => 'Rodrigo Machado',     			        'foto' => 'gesblancabravo'],
+                        ['nombre' => 'Henar Alcántara',     			        'foto' => 'gesrosamahugo'],
+                        ['nombre' => 'Lola Linage',     			        'foto' => 'gessandraginer'],
+                        ['nombre' => 'Santiago Puelles',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Jorge Lecocq',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Isabel Allés',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Belén del Molino',				        'foto' => 'finsantiantunez'],
                     ],
 
                 "Marketing" => [
-                        ['nombre' => 'Inés Piédrola',			        'foto' => 'mktinespiedrola'],
-                        ['nombre' => 'Sufle',			                'foto' => 'mktsufle'],
-                        ['nombre' => 'Bea Domínguez',			        'foto' => 'mktbeadominguez'],
-                        ['nombre' => 'Jennifer Soria',			        'foto' => 'mktjennifersoriano'],
-                        ['nombre' => 'Nicolás Yubero',		            'foto' => 'mktnicoyubero'],
-                        ['nombre' => 'Juan Pablo leal',			        'foto' => 'mktjuanpileal'],
-                        ['nombre' => 'Pilar González-Aller',			'foto' => 'mktpilargonzalezaller'],
-                        ['nombre' => 'Santiago Romero',				    'foto' => 'mktsantiagoromero'],
-                        ['nombre' => 'Pablo Sánchez-Pobre',				'foto' => 'mktpablosanchezpobre'],
-                        ['nombre' => 'Marta Moreno',				    'foto' => 'mktmartamoreno'],
-                        ['nombre' => 'María Pérez',				        'foto' => 'mktmariaperez'],
-                        ['nombre' => 'Lola Linaje',				        'foto' => 'mktlolalinaje'],
-                        ['nombre' => 'Isabel Alles',				     'foto' => 'mktisabelalles'],
+                        ['nombre' => 'Juan Pablo Leal',			            'foto' => 'mktinespiedrola'],
+                        ['nombre' => 'Carla Rius',			            'foto' => 'mktinespiedrola'],
+                        ['nombre' => 'Inés Prados',			            'foto' => 'mktinespiedrola'],
+                        ['nombre' => 'Pablo Navarro',			                    'foto' => 'mktsufle'],
+                        ['nombre' => 'Pilar Cadarso',			            'foto' => 'mktbeadominguez'],
+                        ['nombre' => 'Inés Porrúa',			            'foto' => 'mktjennifersoriano'],
+                        ['nombre' => 'Pablo Sánchez-Pobre',		                'foto' => 'mktnicoyubero'],
+                        ['nombre' => 'Irene Benito',			            'foto' => 'mktjuanpileal'],
+                        ['nombre' => 'Carlota Álvarez',			    'foto' => 'mktpilargonzalezaller'],
+                        ['nombre' => 'Ainhoa Mercedes',				        'foto' => 'mktsantiagoromero'],
+                        ['nombre' => 'Alejandra Cervino',				    'foto' => 'mktpablosanchezpobre'],
+                        ['nombre' => 'Ángela Ramírez',				        'foto' => 'mktmartamoreno'],
+                        ['nombre' => 'Alba Merino',				            'foto' => 'mktmariaperez'],
+                        ['nombre' => 'Alvaro Bravo',				            'foto' => 'mktlolalinaje'],
+                        ['nombre' => 'Álvaro Isern',				        'foto' => 'mktisabelalles'],
+                        ['nombre' => 'María Antúnez',			            'foto' => 'mktinespiedrola'],
+                        ['nombre' => 'Patricia Rivas',			            'foto' => 'mktinespiedrola'],
+
                     ],
 
                 "ONG's" => [
-                        ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongspablonoblejas'],
-                        //['nombre' => 'Jorge Pinto',			        'foto' => 'ongsjorgepinto'],
-                        ['nombre' => 'Armando Palau',			        'foto' => 'ongsarmandopalou'],
-                        ['nombre' => 'Cristina Amador',		            'foto' => 'ongscristinaamador'],
-                        ['nombre' => 'Ainhoa Orta',				        'foto' => 'ongsainhoaorta'],
-                        ['nombre' => 'María Hernández',				    'foto' => 'ongsmariahernandez'],
-                        //['nombre' => 'Ana del Casar',			        'foto' => 'ongsanadelcasar'],
-                        ['nombre' => 'Marta Garrido-Lestache',			'foto' => 'ongsmartagarridolestache'],
-                        ['nombre' => 'Ana Lopez',     			        'foto' => 'ongsanalopezvillalta'],
-                        ['nombre' => 'Carlos Muñoz',     			    'foto' => 'ongscarlosmunoz'],
-                        ['nombre' => 'Javier Escribano',     			'foto' => 'ongsjavierescribano'],
-                        ['nombre' => 'Pilar Rodríguez-Cadarso',     	'foto' => 'ongspilarrodriguezcadarso'],
+                        ['nombre' => 'María Hernández',			            'foto' => 'ongspablonoblejas'],
+                        ['nombre' => 'Edna Pascual',			            'foto' => 'ongspablonoblejas'],
+                        ['nombre' => 'Lucía Sánchez',			            'foto' => 'ongsjorgepinto'],
+                        ['nombre' => 'Daniela Cruz',			            'foto' => 'ongsarmandopalou'],
+                        ['nombre' => 'Cristina Amador',		                'foto' => 'ongscristinaamador'],
+                        ['nombre' => 'Diana González',				            'foto' => 'ongsainhoaorta'],
+                        ['nombre' => 'Marta Aguado',				        'foto' => 'ongsmariahernandez'],
+                        ['nombre' => 'Carmen González',			            'foto' => 'ongsanadelcasar'],
+                        ['nombre' => 'Rosa de la Gándara',			    'foto' => 'ongsmartagarridolestache'],
                     ],
                 
                 "Web" => [
                         ['nombre' => 'Lucía Rosado',				        'foto' => 'webluciarosado'],
                         ['nombre' => 'Andrés Martínez',			    	    'foto' => 'webandresmartinez'],
-                        ['nombre' => 'Guillermo Camargo',			        	    'foto' => 'webdanirosado'],
-                        ['nombre' => 'Diego Lavín',			            'foto' => 'webeugeniatapia'],
-                        ['nombre' => 'Carla Rius',					        'foto' => 'webcarlarius'],
-                        ['nombre' => 'María Urraca',				        'foto' => 'webmariaurraca'],
-                        ['nombre' => 'Nico Lorenzo',		        		'foto' => 'webnicolorenzo'],
-                        ['nombre' => 'Lucía Sancho',     			        'foto' => 'webluciasancho'],
-                        ['nombre' => 'Adriana',     			            'foto' => 'webadriana'],
-                        ['nombre' => 'Carla Alonso',     			        'foto' => 'webcarlaalonso'],
-                        ['nombre' => 'Irene Lara',     			            'foto' => 'webirenelara'],
+                        ['nombre' => 'Guillermo Camargo',			        'foto' => 'webdanirosado'],
+                        ['nombre' => 'Diego Lavín',			                'foto' => 'webeugeniatapia'],
+                        ['nombre' => 'Helena Castro',					        'foto' => 'webcarlarius'],
+                        ['nombre' => 'Guiomar Figueroa',				        'foto' => 'webmariaurraca'],
+                        ['nombre' => 'Juan Ruiz',		        		'foto' => 'webnicolorenzo'],
+                        ['nombre' => 'Luis Ruiz',     			        'foto' => 'webluciasancho'],
+                        ['nombre' => 'Enrique de Miguel',     			            'foto' => 'webadriana'],
+                        ['nombre' => 'Andrés Martínez',     			        'foto' => 'webcarlaalonso'],
+                        ['nombre' => 'Paula Vesperinas',     			            'foto' => 'webirenelara'],
+                        ['nombre' => 'Jaime Oliver',     			            'foto' => 'webirenelara'],
                     ],
                
 
                 "Redes Sociales" => [
-                        ['nombre' => 'Meripa',				            'foto' => 'rrssmeripa'],
-                        ['nombre' => 'Ana González',			        'foto' => 'rrssanagonzalez'],
-                        ['nombre' => 'Carlos Lanchares',		        'foto' => 'rrsscarloslanchares'],
-                        // ['nombre' => 'Belén Cabello de los Cobos',   'foto' => 'rrssbelencabello'],
-                        ['nombre' => 'Blanca Muñoz',			        'foto' => 'rrssblancamunoz'],
-                        ['nombre' => 'Alejandra Valero',		        'foto' => 'rrssalevalero'],
-                        ['nombre' => 'Almudena Alonso-Jáuden',	        'foto' => 'rrssalmualonso'],
-                        //['nombre' => 'Sara González',		            'foto' => 'rrsssaragonzalez'],
-                        ['nombre' => 'Jaime Gómez',                     'foto' => 'rrssjaimegomez'],
-                        ['nombre' => 'Solete',     		                'foto' => 'rrsssolete'],
-                        //['nombre' => 'Pepa Postigo',     			    'foto' => 'rrsspepapostigo'],
-                        //['nombre' => 'María Pérez',     		        'foto' => 'rrssmariaperez'],
-                        //['nombre' => 'Belén Cabello',                 'foto' => 'rrssbelencabello'],
+                        ['nombre' => 'Ana González',			            'foto' => 'rrssanagonzalez'],
+                        ['nombre' => 'Sofia Aledo',		            'foto' => 'rrsscarloslanchares'],
+                        ['nombre' => 'Patricia Garcia',       'foto' => 'rrssbelencabello'],
+                        ['nombre' => 'Ale Rubio',			            'foto' => 'rrssblancamunoz'],
+                        ['nombre' => 'Sofía Araujo',		            'foto' => 'rrssalevalero'],
+                        ['nombre' => 'Candela Arias',	            'foto' => 'rrssalmualonso'],
+                        ['nombre' => 'Patricia Alocén',		                'foto' => 'rrsssaragonzalez'],
+                        ['nombre' => 'Sol Linares ',                         'foto' => 'rrssjaimegomez'],
+                        ['nombre' => 'Lucía Molina',     		                    'foto' => 'rrsssolete'],
+                        ['nombre' => 'Bea Maldonado',     			        'foto' => 'rrsspepapostigo'],
                     ],
 
                     "Recursos Humanos" => [
-                        ['nombre' => 'José Vives',				        'foto' => 'rrhhjosevives'],
-                        ['nombre' => 'Victoria Sarabia',			    'foto' => 'rrhhvictoriasarabia'],
-                        ['nombre' => 'Carmen González-Aller',			'foto' => 'rrhhcarmengonzalezaller'],
-                        ['nombre' => 'Íñigo Arreytunandia',		        'foto' => 'rrhhinigoarreytunandia'],
-                        ['nombre' => 'Patricia García',				    'foto' => 'rrhhpatriciagarcia'],
-                        ['nombre' => 'Isabel Cornide',				    'foto' => 'rrhhisabelcornide'],
-                        ['nombre' => 'Santi Puelles',			    'foto' => 'rrhhsantiagopuelles'],
-                        // ['nombre' => 'Sol Bernard',				    'foto' => 'rrhhsolbernard'],
-                        ['nombre' => 'Inés Delgado',				    'foto' => 'rrhhinesdelgado'],
-                        ['nombre' => 'Alejandra Rubio',				    'foto' => 'rrhhalejandrarubio'],
-                        // ['nombre' => 'Candela Arias',				'foto' => 'rrhhcandelaarias'],
-                        // ['nombre' => 'Patricia Alocen',				'foto' => 'rrhhpatriciaalocen'],
-                        ['nombre' => 'Pablo Jiménez',				    'foto' => 'rrhhpablojimenez'],
+                        ['nombre' => 'José Vives',				            'foto' => 'rrhhjosevives'],
+                        ['nombre' => 'Brenda Ascanio',			        'foto' => 'rrhhvictoriasarabia'],
+                        ['nombre' => 'Almudena Andreu',			    'foto' => 'rrhhcarmengonzalezaller'],
+                        ['nombre' => 'Manuela Sánchez',		            'foto' => 'rrhhinigoarreytunandia'],
+                        ['nombre' => 'Lourdes Quintana',				        'foto' => 'rrhhpatriciagarcia'],
+                        ['nombre' => 'Carlos Villarino',				        'foto' => 'rrhhisabelcornide'],
+                        ['nombre' => 'Arantxa Pérez-Miranda ',			            'foto' => 'rrhhsantiagopuelles'],
+                        ['nombre' => 'Sol Bernard',				        'foto' => 'rrhhsolbernard'],
+                        ['nombre' => 'Inés Delgado',				        'foto' => 'rrhhinesdelgado'],
+                        ['nombre' => 'Nicolás Ferreiro',				        'foto' => 'rrhhalejandrarubio'],
+                        ['nombre' => 'José López',				    'foto' => 'rrhhcandelaarias'],
+                        ['nombre' => 'Javier Ranninger',				    'foto' => 'rrhhpatriciaalocen'],
+                        ['nombre' => 'Ainhoa Orta',				        'foto' => 'rrhhpablojimenez'],
+                        ['nombre' => 'Jesús Fernández-Cordeiro',				        'foto' => 'rrhhpablojimenez'],
+                        ['nombre' => 'Patricia Martínez',				        'foto' => 'rrhhpablojimenez'],
                     ],
                 ];
 
@@ -526,7 +467,7 @@ escribe_cabecera();
             $fotosPorFila = 4;
             
             // --- Función que escribe todas las fotos y nombres de los mimembros del equipo
-             // muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
+            //muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
             
             ?>
 -->
