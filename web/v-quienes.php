@@ -141,7 +141,7 @@ escribe_cabecera();
                                         
                                         <p>
                                         todo en la vida, no siempre salen las cosas a la primera. Y VOLUNFAIR no es la excepción. Pero <b>con cada caída se aprende</b>.
-                                        Y es que caer no está mal, el problema es si nos encariñamos de la piedra. Porque el éxito a veces 
+                                        Y es que caer no está mal, el problema es si hola cara cola nos encariñamos de la piedra. Porque el éxito a veces 
                                         está en ir de fracaso en fracaso sin perder el entusiasmo. 
                                         </p>
         
